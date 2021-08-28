@@ -14,16 +14,6 @@
             "entity": "Scene"
         }
     ],
-    "dependencies":[
-    {
-    "name": "multilevel-tokens",
-    "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json"
-    }
-    {
-    "name": "stairways",
-    "manifest": "https://gitlab.com/SWW13/foundryvtt-stairways/-/raw/development/module.json"
-    }
-    ]
-    "manifest": "",
+    "manifest": "https://github.com/Cobblers95/Long-Walk-Home/blob/56d32db8a6007cbd2f59c15c98c7af16eaba19df/module.json",
     "download": ""
   }
