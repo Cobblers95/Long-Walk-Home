@@ -1,0 +1,29 @@
+{
+    "name": "long-walk-home-maps",
+    "title": "Long Walk Home Maps",
+    "description": "A collection of maps for use in Gareth's Long Walk Home.",
+    "version": "1.0.0",
+    "author": "Liam Cobb",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.7",
+    "packs": [
+     {
+            "name": "scenes",
+            "label": "Long Walk Home Maps",
+            "path": "./packs/scenes.db",
+            "entity": "Scene"
+        }
+    ],
+    "dependencies":[
+    {
+    "name": "multilevel-tokens",
+    "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json"
+    }
+    {
+    "name": "stairways",
+    "manifest": "https://gitlab.com/SWW13/foundryvtt-stairways/-/raw/development/module.json"
+    }
+    ]
+    "manifest": "",
+    "download": ""
+  }
